@@ -38,7 +38,7 @@ something = 'ЯП - язык программирования' # тип данн
 print(something)
 something = 123 # тип данных - Integer
 print(something)
-something = 3.14 # тип данных - Double
+something = 3.14 # тип данных - Float
 print(something)
 
 # Задача:
@@ -50,4 +50,3 @@ first_var = 'Название переменной'
 second_var = first_var
 print(first_var)
 print(second_var)
-
