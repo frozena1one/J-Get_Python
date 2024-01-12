@@ -58,4 +58,4 @@ else:
 
 something = input() -> тип данных str
 something = int(input()) -> тип данных int
-something = double(input()) -> тип данных double
+something = float(input()) -> тип данных float
